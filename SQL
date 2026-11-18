@@ -1,0 +1,12 @@
+# SQL Learning
+
+This folder contains my SQL learning notes and practice queries.
+
+## Topics
+- Introduction to SQL
+- SELECT statements
+- WHERE clause
+- ORDER BY
+- GROUP BY
+- Aggregate functions
+- Joins
